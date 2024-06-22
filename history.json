@@ -1,0 +1,49 @@
+{
+    "history": {
+        "AWP | Neo-Noir (Battle-Scarred)": [
+            {
+                "price": "19,37\u20ac",
+                "lowest_price": "19,50\u20ac",
+                "volume": "23",
+                "hour": "01",
+                "date": "23/06/2024"
+            }
+        ],
+        "AWP | Neo-Noir (Field-Tested)": [
+            {
+                "price": "21,63\u20ac",
+                "lowest_price": "21,53\u20ac",
+                "volume": "81",
+                "hour": "01",
+                "date": "23/06/2024"
+            }
+        ],
+        "AWP | Neo-Noir (Minimal Wear)": [
+            {
+                "price": "26,07\u20ac",
+                "lowest_price": "27,--\u20ac",
+                "volume": "70",
+                "hour": "01",
+                "date": "23/06/2024"
+            }
+        ],
+        "AWP | Neo-Noir (Factory New)": [
+            {
+                "price": "34,39\u20ac",
+                "lowest_price": "34,64\u20ac",
+                "volume": "58",
+                "hour": "01",
+                "date": "23/06/2024"
+            }
+        ],
+        "AWP | Neo-Noir (Well-Worn)": [
+            {
+                "price": "21,18\u20ac",
+                "lowest_price": "21,25\u20ac",
+                "volume": "19",
+                "hour": "01",
+                "date": "23/06/2024"
+            }
+        ]
+    }
+}

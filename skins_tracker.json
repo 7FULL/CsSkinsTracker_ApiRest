@@ -1,0 +1,24 @@
+{
+    "skins": [
+        {
+            "name": "AWP | Neo-Noir (Battle-Scarred)",
+            "hash_name": "AWP%20%7C%20Neo-Noir%20%28Battle-Scarred%29"
+        },
+        {
+            "name": "AWP | Neo-Noir (Field-Tested)",
+            "hash_name": "AWP%20%7C%20Neo-Noir%20%28Field-Tested%29"
+        },
+        {
+            "name": "AWP | Neo-Noir (Minimal Wear)",
+            "hash_name": "AWP%20%7C%20Neo-Noir%20%28Minimal%20Wear%29"
+        },
+        {
+            "name": "AWP | Neo-Noir (Factory New)",
+            "hash_name": "AWP%20%7C%20Neo-Noir%20%28Factory%20New%29"
+        },
+        {
+            "name": "AWP | Neo-Noir (Well-Worn)",
+            "hash_name": "AWP%20%7C%20Neo-Noir%20%28Well-Worn%29"
+        }
+    ]
+}
